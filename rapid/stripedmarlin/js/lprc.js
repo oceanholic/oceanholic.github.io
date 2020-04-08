@@ -178,7 +178,7 @@ L.control.custom = function (options) {
 L.control.logo = function () {
         return new L.Control.Custom({
                 position: 'topleft',
-                content : '<a href="http://tunalab.org" target="_blank"><img src="http://tunalab.org/images/logo.png" height="93" width="85"></a>',
+                content : '<a href="http://tunalab.org" target="_blank"><img src="js/images/logo.png" height="93" width="85"></a>',
                 classes : '',
                 style   :
                 {
@@ -193,7 +193,7 @@ L.control.logo = function () {
 L.control.logo2 = function () {
         return new L.Control.Custom({
                 position: 'topleft',
-                content : '<a href="http://fishtoday.org" target="_blank"><img src="js/images/logo.png" height="80" width="195"></a>',
+                content : '<a href="http://fishtoday.org" target="_blank"><img src="js/images/pifg.png" height="80" width="195"></a>',
                 classes : '',
                 style   :
                 {
