@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <kml xmlns="http://www.opengis.net/kml/2.2"
+  xmlns:gx="http://www.google.com/kml/ext/2.2">
+ <Folder>
+ <name>MLS.Tag990317</name>
+ <Placemark>
+ <gx:Track>
+ <when>2010-11-12T00:00:00Z</when>
+ <when>2010-11-13T00:00:00Z</when>
+ <when>2010-11-14T00:00:00Z</when>
+ <when>2010-11-15T00:00:00Z</when>
+ <when>2010-11-16T00:00:00Z</when>
+ <when>2010-11-17T00:00:00Z</when>
+ <when>2010-11-18T00:00:00Z</when>
+ <when>2010-11-19T00:00:00Z</when>
+ <when>2010-11-20T00:00:00Z</when>
+ <when>2010-11-21T00:00:00Z</when>
+ <when>2010-11-22T00:00:00Z</when>
+ <when>2010-11-23T00:00:00Z</when>
+ <when>2010-11-24T00:00:00Z</when>
+ <when>2010-11-25T00:00:00Z</when>
+ <when>2010-11-26T00:00:00Z</when>
+ <when>2010-11-27T00:00:00Z</when>
+ <when>2010-11-28T00:00:00Z</when>
+ <when>2010-11-29T00:00:00Z</when>
+ <when>2010-11-30T00:00:00Z</when>
+ <when>2010-12-01T00:00:00Z</when>
+ <when>2010-12-02T00:00:00Z</when>
+ <when>2010-12-03T00:00:00Z</when>
+ <when>2010-12-04T00:00:00Z</when>
+ <when>2010-12-05T00:00:00Z</when>
+ <when>2010-12-06T00:00:00Z</when>
+ <when>2010-12-07T00:00:00Z</when>
+ <when>2010-12-08T00:00:00Z</when>
+ <when>2010-12-09T00:00:00Z</when>
+ <when>2010-12-10T00:00:00Z</when>
+ <when>2010-12-11T00:00:00Z</when>
+ <when>2010-12-12T00:00:00Z</when>
+ <when>2010-12-13T00:00:00Z</when>
+ <when>2010-12-14T00:00:00Z</when>
+ <when>2010-12-15T00:00:00Z</when>
+ <when>2010-12-16T00:00:00Z</when>
+ <when>2010-12-17T00:00:00Z</when>
+ <when>2010-12-18T00:00:00Z</when>
+ <when>2010-12-19T00:00:00Z</when>
+ <when>2010-12-20T00:00:00Z</when>
+ <when>2010-12-21T00:00:00Z</when>
+ <when>2010-12-22T00:00:00Z</when>
+ <when>2010-12-23T00:00:00Z</when>
+ <when>2010-12-24T00:00:00Z</when>
+ <when>2010-12-25T00:00:00Z</when>
+ <when>2010-12-26T00:00:00Z</when>
+ <when>2010-12-27T00:00:00Z</when>
+ <when>2010-12-28T00:00:00Z</when>
+ <when>2010-12-29T00:00:00Z</when>
+ <when>2010-12-30T00:00:00Z</when>
+ <when>2010-12-31T00:00:00Z</when>
+ <when>2011-01-01T00:00:00Z</when>
+ <when>2011-01-02T00:00:00Z</when>
+ <when>2011-01-03T00:00:00Z</when>
+ <when>2011-01-04T00:00:00Z</when>
+ <when>2011-01-05T00:00:00Z</when>
+ <when>2011-01-06T00:00:00Z</when>
+ <when>2011-01-07T00:00:00Z</when>
+ <when>2011-01-08T00:00:00Z</when>
+ <when>2011-01-09T00:00:00Z</when>
+ <when>2011-01-10T00:00:00Z</when>
+ <when>2011-01-11T00:00:00Z</when>
+ <when>2011-01-12T00:00:00Z</when>
+ <when>2011-01-13T00:00:00Z</when>
+ <when>2011-01-14T00:00:00Z</when>
+ <when>2011-01-15T00:00:00Z</when>
+ <when>2011-01-16T00:00:00Z</when>
+ <when>2011-01-17T00:00:00Z</when>
+ <when>2011-01-18T00:00:00Z</when>
+ <when>2011-01-19T00:00:00Z</when>
+ <when>2011-01-20T00:00:00Z</when>
+ <when>2011-01-21T00:00:00Z</when>
+ <when>2011-01-22T00:00:00Z</when>
+ <when>2011-01-23T00:00:00Z</when>
+ <when>2011-01-24T00:00:00Z</when>
+ <when>2011-01-25T00:00:00Z</when>
+ <when>2011-01-26T00:00:00Z</when>
+ <when>2011-01-27T00:00:00Z</when>
+ <when>2011-01-28T00:00:00Z</when>
+ <when>2011-01-29T00:00:00Z</when>
+ <when>2011-01-30T00:00:00Z</when>
+ <when>2011-01-31T00:00:00Z</when>
+ <when>2011-02-01T00:00:00Z</when>
+ <when>2011-02-02T00:00:00Z</when>
+ <when>2011-02-03T00:00:00Z</when>
+ <when>2011-02-04T00:00:00Z</when>
+ <when>2011-02-05T00:00:00Z</when>
+ <when>2011-02-06T00:00:00Z</when>
+ <when>2011-02-07T00:00:00Z</when>
+ <when>2011-02-08T00:00:00Z</when>
+ <when>2011-02-09T00:00:00Z</when>
+ <when>2011-02-10T00:00:00Z</when>
+ <when>2011-02-11T00:00:00Z</when>
+ <when>2011-02-12T00:00:00Z</when>
+ <when>2011-02-13T00:00:00Z</when>
+ <when>2011-02-14T00:00:00Z</when>
+ <when>2011-02-15T00:00:00Z</when>
+ <when>2011-02-16T00:00:00Z</when>
+ <when>2011-02-17T00:00:00Z</when>
+ <when>2011-02-18T00:00:00Z</when>
+ <when>2011-02-19T00:00:00Z</when>
+ <when>2011-02-20T00:00:00Z</when>
+ <when>2011-02-21T00:00:00Z</when>
+ <when>2011-02-22T00:00:00Z</when>
+ <when>2011-02-23T00:00:00Z</when>
+ <when>2011-02-24T00:00:00Z</when>
+ <when>2011-02-25T00:00:00Z</when>
+ <when>2011-02-26T00:00:00Z</when>
+ <when>2011-02-27T00:00:00Z</when>
+ <when>2011-02-28T00:00:00Z</when>
+ <when>2011-03-01T00:00:00Z</when>
+ <when>2011-03-02T00:00:00Z</when>
+ <when>2011-03-03T00:00:00Z</when>
+ <when>2011-03-04T00:00:00Z</when>
+ <when>2011-03-05T00:00:00Z</when>
+ <when>2011-03-06T00:00:00Z</when>
+ <when>2011-03-07T00:00:00Z</when>
+ <when>2011-03-08T00:00:00Z</when>
+ <when>2011-03-09T00:00:00Z</when>
+ <when>2011-03-10T00:00:00Z</when>
+ <when>2011-03-11T00:00:00Z</when>
+ <when>2011-03-12T00:00:00Z</when>
+ <when>2011-03-13T00:00:00Z</when>
+ <when>2011-03-14T00:00:00Z</when>
+ <when>2011-03-15T00:00:00Z</when>
+ <when>2011-03-16T00:00:00Z</when>
+ <when>2011-03-17T00:00:00Z</when>
+ <when>2011-03-18T00:00:00Z</when>
+ <when>2011-03-19T00:00:00Z</when>
+ <when>2011-03-20T00:00:00Z</when>
+ <when>2011-03-21T00:00:00Z</when>
+ <when>2011-03-22T00:00:00Z</when>
+ <when>2011-03-23T00:00:00Z</when>
+ <when>2011-03-24T00:00:00Z</when>
+ <when>2011-03-25T00:00:00Z</when>
+ <when>2011-03-26T00:00:00Z</when>
+ <when>2011-03-27T00:00:00Z</when>
+ <when>2011-03-28T00:00:00Z</when>
+ <when>2011-03-29T00:00:00Z</when>
+ <when>2011-03-30T00:00:00Z</when>
+ <when>2011-03-31T00:00:00Z</when>
+ <when>2011-04-01T00:00:00Z</when>
+ <when>2011-04-02T00:00:00Z</when>
+ <when>2011-04-03T00:00:00Z</when>
+ <when>2011-04-04T00:00:00Z</when>
+ <when>2011-04-05T00:00:00Z</when>
+ <when>2011-04-06T00:00:00Z</when>
+ <when>2011-04-07T00:00:00Z</when>
+ <when>2011-04-08T00:00:00Z</when>
+ <when>2011-04-09T00:00:00Z</when>
+ <when>2011-04-10T00:00:00Z</when>
+ <when>2011-04-11T00:00:00Z</when>
+ <when>2011-04-12T00:00:00Z</when>
+ <when>2011-04-13T00:00:00Z</when>
+ <when>2011-04-14T00:00:00Z</when>
+ <when>2011-04-15T00:00:00Z</when>
+ <when>2011-04-16T00:00:00Z</when>
+ <when>2011-04-17T00:00:00Z</when>
+ <when>2011-04-18T00:00:00Z</when>
+ <when>2011-04-19T00:00:00Z</when>
+ <when>2011-04-20T00:00:00Z</when>
+ <when>2011-04-21T00:00:00Z</when>
+ <when>2011-04-22T00:00:00Z</when>
+ <when>2011-04-23T00:00:00Z</when>
+ <when>2011-04-24T00:00:00Z</when>
+ <when>2011-04-25T00:00:00Z</when>
+ <when>2011-04-26T00:00:00Z</when>
+ <when>2011-04-27T00:00:00Z</when>
+ <when>2011-04-28T00:00:00Z</when>
+ <when>2011-04-29T00:00:00Z</when>
+ <when>2011-04-30T00:00:00Z</when>
+ <when>2011-05-01T00:00:00Z</when>
+ <when>2011-05-02T00:00:00Z</when>
+ <when>2011-05-03T00:00:00Z</when>
+ <when>2011-05-04T00:00:00Z</when>
+ <when>2011-05-05T00:00:00Z</when>
+ <when>2011-05-06T00:00:00Z</when>
+ <when>2011-05-07T00:00:00Z</when>
+ <when>2011-05-08T00:00:00Z</when>
+ <when>2011-05-09T00:00:00Z</when>
+ <when>2011-05-10T00:00:00Z</when>
+ <when>2011-05-11T00:00:00Z</when>
+ <when>2011-05-12T00:00:00Z</when>
+ <when>2011-05-13T00:00:00Z</when>
+ <when>2011-05-14T00:00:00Z</when>
+ <when>2011-05-15T00:00:00Z</when>
+ <when>2011-05-16T00:00:00Z</when>
+ <when>2011-05-17T00:00:00Z</when>
+ <when>2011-05-18T00:00:00Z</when>
+ <when>2011-05-19T00:00:00Z</when>
+ <when>2011-05-20T00:00:00Z</when>
+ <when>2011-05-21T00:00:00Z</when>
+ <when>2011-05-22T00:00:00Z</when>
+ <when>2011-05-23T00:00:00Z</when>
+ <when>2011-05-24T00:00:00Z</when>
+ <when>2011-05-25T00:00:00Z</when>
+ <when>2011-05-26T00:00:00Z</when>
+ <when>2011-05-27T00:00:00Z</when>
+ <when>2011-05-28T00:00:00Z</when>
+ <when>2011-05-29T00:00:00Z</when>
+ <when>2011-05-30T00:00:00Z</when>
+ <when>2011-05-31T00:00:00Z</when>
+ <when>2011-06-01T00:00:00Z</when>
+ <when>2011-06-02T00:00:00Z</when>
+ <when>2011-06-03T00:00:00Z</when>
+ <when>2011-06-04T00:00:00Z</when>
+ <when>2011-06-05T00:00:00Z</when>
+ <when>2011-06-06T00:00:00Z</when>
+ <when>2011-06-07T00:00:00Z</when>
+ <when>2011-06-08T00:00:00Z</when>
+ <when>2011-06-09T00:00:00Z</when>
+ <when>2011-06-10T00:00:00Z</when>
+ <when>2011-06-11T00:00:00Z</when>
+ <when>2011-06-12T00:00:00Z</when>
+ <when>2011-06-13T00:00:00Z</when>
+ <when>2011-06-14T00:00:00Z</when>
+ <when>2011-06-15T00:00:00Z</when>
+ <when>2011-06-16T00:00:00Z</when>
+ <when>2011-06-17T00:00:00Z</when>
+ <when>2011-06-18T00:00:00Z</when>
+ <when>2011-06-19T00:00:00Z</when>
+ <when>2011-06-20T00:00:00Z</when>
+ <when>2011-06-21T00:00:00Z</when>
+ <when>2011-06-22T00:00:00Z</when>
+ <when>2011-06-23T00:00:00Z</when>
+ <when>2011-06-24T00:00:00Z</when>
+ <when>2011-06-25T00:00:00Z</when>
+ <when>2011-06-26T00:00:00Z</when>
+ <when>2011-06-27T00:00:00Z</when>
+ <when>2011-06-28T00:00:00Z</when>
+ <when>2011-06-29T00:00:00Z</when>
+ <when>2011-06-30T00:00:00Z</when>
+ <when>2011-07-01T00:00:00Z</when>
+ <when>2011-07-02T00:00:00Z</when>
+ <when>2011-07-03T00:00:00Z</when>
+ <when>2011-07-04T00:00:00Z</when>
+ <when>2011-07-05T00:00:00Z</when>
+ <when>2011-07-06T00:00:00Z</when>
+ <when>2011-07-07T00:00:00Z</when>
+ <when>2011-07-08T00:00:00Z</when>
+ <when>2011-07-09T00:00:00Z</when>
+ <when>2011-07-10T00:00:00Z</when>
+ <when>2011-07-11T00:00:00Z</when>
+ <when>2011-07-12T00:00:00Z</when>
+ <when>2011-07-13T00:00:00Z</when>
+ <when>2011-07-14T00:00:00Z</when>
+ <when>2011-07-15T00:00:00Z</when>
+ <when>2011-07-16T00:00:00Z</when>
+ <when>2011-07-17T00:00:00Z</when>
+ <when>2011-07-18T00:00:00Z</when>
+ <when>2011-07-19T00:00:00Z</when>
+ <when>2011-07-20T00:00:00Z</when>
+ <when>2011-07-21T00:00:00Z</when>
+ <when>2011-07-22T00:00:00Z</when>
+ <when>2011-07-23T00:00:00Z</when>
+ <when>2011-07-24T00:00:00Z</when>
+ <when>2011-07-25T00:00:00Z</when>
+ <when>2011-07-26T00:00:00Z</when>
+ <when>2011-07-27T00:00:00Z</when>
+ <when>2011-07-28T00:00:00Z</when>
+ <when>2011-07-29T00:00:00Z</when>
+ <when>2011-07-30T00:00:00Z</when>
+ <when>2011-07-31T00:00:00Z</when>
+ <when>2011-08-01T00:00:00Z</when>
+ <when>2011-08-02T00:00:00Z</when>
+ <when>2011-08-03T00:00:00Z</when>
+ <when>2011-08-04T00:00:00Z</when>
+ <when>2011-08-05T00:00:00Z</when>
+ <when>2011-08-06T00:00:00Z</when>
+ <when>2011-08-07T00:00:00Z</when>
+ <when>2011-08-08T00:00:00Z</when>
+ <when>2011-08-09T00:00:00Z</when>
+ <when>2011-08-10T00:00:00Z</when>
+ <when>2011-08-11T00:00:00Z</when>
+ <when>2011-08-12T00:00:00Z</when>
+ <when>2011-08-13T00:00:00Z</when>
+ <when>2011-08-14T00:00:00Z</when>
+ <when>2011-08-15T00:00:00Z</when>
+ <when>2011-08-16T00:00:00Z</when>
+ <when>2011-08-17T00:00:00Z</when>
+ <when>2011-08-18T00:00:00Z</when>
+ <when>2011-08-19T00:00:00Z</when>
+ <when>2011-08-20T00:00:00Z</when>
+ <when>2011-08-21T00:00:00Z</when>
+ <when>2011-08-22T00:00:00Z</when>
+ <when>2011-08-23T00:00:00Z</when>
+ <when>2011-08-24T00:00:00Z</when>
+ <when>2011-08-25T00:00:00Z</when>
+ <when>2011-08-26T00:00:00Z</when>
+ <when>2011-08-27T00:00:00Z</when>
+ <when>2011-08-28T00:00:00Z</when>
+ <when>2011-08-29T00:00:00Z</when>
+ <when>2011-08-30T00:00:00Z</when>
+ <when>2011-08-31T00:00:00Z</when>
+ <when>2011-09-01T00:00:00Z</when>
+ <when>2011-09-02T00:00:00Z</when>
+ <when>2011-09-03T00:00:00Z</when>
+ <when>2011-09-04T00:00:00Z</when>
+ <when>2011-09-05T00:00:00Z</when>
+ <gx:coord>-111.5 23.925 0</gx:coord>
+ <gx:coord>-111.6125 23.8 0</gx:coord>
+ <gx:coord>-111.6 23.8 0</gx:coord>
+ <gx:coord>-111.51 23.94 0</gx:coord>
+ <gx:coord>-111.4625 23.7291666666667 0</gx:coord>
+ <gx:coord>-111.59375 23.78125 0</gx:coord>
+ <gx:coord>-111.535714285714 24.1071428571429 0</gx:coord>
+ <gx:coord>-111.416666666667 24.0041666666667 0</gx:coord>
+ <gx:coord>-111.425 23.93 0</gx:coord>
+ <gx:coord>-111.385 23.88 0</gx:coord>
+ <gx:coord>-111.315 23.755 0</gx:coord>
+ <gx:coord>-110.57 23 0</gx:coord>
+ <gx:coord>-110.1 22.275 0</gx:coord>
+ <gx:coord>-109.545833333333 21.9208333333333 0</gx:coord>
+ <gx:coord>-109.0125 21.2708333333333 0</gx:coord>
+ <gx:coord>-108.62 20.38 0</gx:coord>
+ <gx:coord>-108.116666666667 20.2333333333333 0</gx:coord>
+ <gx:coord>-108.075 20.0916666666667 0</gx:coord>
+ <gx:coord>-107.68 20.3 0</gx:coord>
+ <gx:coord>-107.583333333333 20.3166666666667 0</gx:coord>
+ <gx:coord>-107.53 19.57 0</gx:coord>
+ <gx:coord>-107.295833333333 18.9791666666667 0</gx:coord>
+ <gx:coord>-106.86 18.37 0</gx:coord>
+ <gx:coord>-106.716666666667 17.0625 0</gx:coord>
+ <gx:coord>-106.8375 16.4458333333333 0</gx:coord>
+ <gx:coord>-106.83125 16.26875 0</gx:coord>
+ <gx:coord>-106.742857142857 16.1 0</gx:coord>
+ <gx:coord>-107.015 15.98 0</gx:coord>
+ <gx:coord>-106.75 15.8791666666667 0</gx:coord>
+ <gx:coord>-106.72 15.845 0</gx:coord>
+ <gx:coord>-106.77 15.775 0</gx:coord>
+ <gx:coord>-106.6 15.81875 0</gx:coord>
+ <gx:coord>-106.433333333333 15.8583333333333 0</gx:coord>
+ <gx:coord>-106.3375 15.8875 0</gx:coord>
+ <gx:coord>-106.296428571429 15.9714285714286 0</gx:coord>
+ <gx:coord>-105.920833333333 15.95 0</gx:coord>
+ <gx:coord>-105.483333333333 15.5041666666667 0</gx:coord>
+ <gx:coord>-104.945 15.22 0</gx:coord>
+ <gx:coord>-104.720833333333 15.2541666666667 0</gx:coord>
+ <gx:coord>-104.39375 15.29375 0</gx:coord>
+ <gx:coord>-104.1375 15.4458333333333 0</gx:coord>
+ <gx:coord>-103.804166666667 15.7333333333333 0</gx:coord>
+ <gx:coord>-103.615 16.02 0</gx:coord>
+ <gx:coord>-103.541666666667 16.2541666666667 0</gx:coord>
+ <gx:coord>-103.654166666667 16.3875 0</gx:coord>
+ <gx:coord>-103.858333333333 16.5083333333333 0</gx:coord>
+ <gx:coord>-104.191666666667 16.75 0</gx:coord>
+ <gx:coord>-104.35 16.95625 0</gx:coord>
+ <gx:coord>-104.404166666667 17 0</gx:coord>
+ <gx:coord>-104.23 16.91 0</gx:coord>
+ <gx:coord>-102.93 17.97 0</gx:coord>
+ <gx:coord>-102.915 17.905 0</gx:coord>
+ <gx:coord>-103.155 17.95 0</gx:coord>
+ <gx:coord>-104.35 17.175 0</gx:coord>
+ <gx:coord>-104.370833333333 17.1375 0</gx:coord>
+ <gx:coord>-104.125 16.95 0</gx:coord>
+ <gx:coord>-103.958333333333 16.775 0</gx:coord>
+ <gx:coord>-104.004166666667 16.8333333333333 0</gx:coord>
+ <gx:coord>-104.03 16.815 0</gx:coord>
+ <gx:coord>-104.51 16.845 0</gx:coord>
+ <gx:coord>-104.704166666667 16.875 0</gx:coord>
+ <gx:coord>-103.805 16.915 0</gx:coord>
+ <gx:coord>-103.74 17.015 0</gx:coord>
+ <gx:coord>-103.07 17.93 0</gx:coord>
+ <gx:coord>-103.04375 17.74375 0</gx:coord>
+ <gx:coord>-103.503571428571 17.7071428571429 0</gx:coord>
+ <gx:coord>-103.745 17.06 0</gx:coord>
+ <gx:coord>-103.75 16.745 0</gx:coord>
+ <gx:coord>-103.283333333333 16.3375 0</gx:coord>
+ <gx:coord>-103.070833333333 15.9916666666667 0</gx:coord>
+ <gx:coord>-102.85 16.36 0</gx:coord>
+ <gx:coord>-102.525 16.545 0</gx:coord>
+ <gx:coord>-102.235 16.535 0</gx:coord>
+ <gx:coord>-102.09 16.585 0</gx:coord>
+ <gx:coord>-102.17 16.71 0</gx:coord>
+ <gx:coord>-101.995833333333 16.7125 0</gx:coord>
+ <gx:coord>-102.055 16.8 0</gx:coord>
+ <gx:coord>-102.055 16.81 0</gx:coord>
+ <gx:coord>-101.835 16.875 0</gx:coord>
+ <gx:coord>-101.69 17.01 0</gx:coord>
+ <gx:coord>-101.59 17.015 0</gx:coord>
+ <gx:coord>-101.12 17.065 0</gx:coord>
+ <gx:coord>-100.608333333333 16.8666666666667 0</gx:coord>
+ <gx:coord>-100.62 16.83 0</gx:coord>
+ <gx:coord>-100.52 16.805 0</gx:coord>
+ <gx:coord>-100.185 16.72 0</gx:coord>
+ <gx:coord>-100.141666666667 16.6291666666667 0</gx:coord>
+ <gx:coord>-100.108333333333 16.5208333333333 0</gx:coord>
+ <gx:coord>-99.8916666666667 16.3583333333333 0</gx:coord>
+ <gx:coord>-99.395 16.205 0</gx:coord>
+ <gx:coord>-99.54 15.92 0</gx:coord>
+ <gx:coord>-99.71 16.04 0</gx:coord>
+ <gx:coord>-99.93 16.415 0</gx:coord>
+ <gx:coord>-100.14 16.47 0</gx:coord>
+ <gx:coord>-100.555 16.535 0</gx:coord>
+ <gx:coord>-100.945 16.68 0</gx:coord>
+ <gx:coord>-100.975 16.735 0</gx:coord>
+ <gx:coord>-100.983333333333 16.7375 0</gx:coord>
+ <gx:coord>-101.075 16.73 0</gx:coord>
+ <gx:coord>-100.915 16.665 0</gx:coord>
+ <gx:coord>-100.745 16.61 0</gx:coord>
+ <gx:coord>-100.6875 16.4666666666667 0</gx:coord>
+ <gx:coord>-99.9 15.59 0</gx:coord>
+ <gx:coord>-99.245 15.37 0</gx:coord>
+ <gx:coord>-99.085 15.205 0</gx:coord>
+ <gx:coord>-98.6958333333333 15.2541666666667 0</gx:coord>
+ <gx:coord>-98.7458333333333 15.2875 0</gx:coord>
+ <gx:coord>-98.93 15.295 0</gx:coord>
+ <gx:coord>-98.9583333333333 15.2208333333333 0</gx:coord>
+ <gx:coord>-98.78 15.265 0</gx:coord>
+ <gx:coord>-98.775 15.52 0</gx:coord>
+ <gx:coord>-98.69 15.35 0</gx:coord>
+ <gx:coord>-98.35 14.95 0</gx:coord>
+ <gx:coord>-98.2 14.655 0</gx:coord>
+ <gx:coord>-98.76 14.7 0</gx:coord>
+ <gx:coord>-98.49375 14.39375 0</gx:coord>
+ <gx:coord>-97.8607142857143 14.2535714285714 0</gx:coord>
+ <gx:coord>-97.68125 13.74375 0</gx:coord>
+ <gx:coord>-97.1333333333333 13.4291666666667 0</gx:coord>
+ <gx:coord>-97.055 12.635 0</gx:coord>
+ <gx:coord>-96.625 12.3214285714286 0</gx:coord>
+ <gx:coord>-96.665 12.12 0</gx:coord>
+ <gx:coord>-96.565 11.945 0</gx:coord>
+ <gx:coord>-96.5416666666667 11.7625 0</gx:coord>
+ <gx:coord>-95.985 11.565 0</gx:coord>
+ <gx:coord>-95.92 11.39 0</gx:coord>
+ <gx:coord>-96.25625 10.71875 0</gx:coord>
+ <gx:coord>-96.1875 10.4958333333333 0</gx:coord>
+ <gx:coord>-96.29 10.5 0</gx:coord>
+ <gx:coord>-95.84375 10.74375 0</gx:coord>
+ <gx:coord>-95.2392857142857 10.9321428571429 0</gx:coord>
+ <gx:coord>-95.5 10.95 0</gx:coord>
+ <gx:coord>-94.9142857142857 10.9392857142857 0</gx:coord>
+ <gx:coord>-94.535 10.735 0</gx:coord>
+ <gx:coord>-95.025 10.23125 0</gx:coord>
+ <gx:coord>-95.3 10.335 0</gx:coord>
+ <gx:coord>-95.7125 9.8125 0</gx:coord>
+ <gx:coord>-95.6178571428571 9.51071428571429 0</gx:coord>
+ <gx:coord>-95.585 9.495 0</gx:coord>
+ <gx:coord>-95.5416666666667 9.79166666666667 0</gx:coord>
+ <gx:coord>-95.55 9.955 0</gx:coord>
+ <gx:coord>-95.4678571428571 10 0</gx:coord>
+ <gx:coord>-95.10625 9.775 0</gx:coord>
+ <gx:coord>-94.975 9.65 0</gx:coord>
+ <gx:coord>-95.4708333333333 9.45 0</gx:coord>
+ <gx:coord>-95.615 9.505 0</gx:coord>
+ <gx:coord>-95.4 9.485 0</gx:coord>
+ <gx:coord>-95.06 9.65 0</gx:coord>
+ <gx:coord>-94.875 9.70714285714286 0</gx:coord>
+ <gx:coord>-94.90625 9.80625 0</gx:coord>
+ <gx:coord>-94.9071428571429 9.71785714285714 0</gx:coord>
+ <gx:coord>-94.92 9.845 0</gx:coord>
+ <gx:coord>-94.78125 10.50625 0</gx:coord>
+ <gx:coord>-94.6785714285714 10.6464285714286 0</gx:coord>
+ <gx:coord>-94.925 9.70833333333333 0</gx:coord>
+ <gx:coord>-94.9041666666667 9.8 0</gx:coord>
+ <gx:coord>-95 9.605 0</gx:coord>
+ <gx:coord>-95.2321428571429 9.56785714285714 0</gx:coord>
+ <gx:coord>-95.49375 9.34375 0</gx:coord>
+ <gx:coord>-95.65 9.38 0</gx:coord>
+ <gx:coord>-95.7642857142857 9.18214285714286 0</gx:coord>
+ <gx:coord>-95.77 9.81 0</gx:coord>
+ <gx:coord>-95.99375 9.8375 0</gx:coord>
+ <gx:coord>-96.0785714285714 9.97142857142857 0</gx:coord>
+ <gx:coord>-96.5 9.37 0</gx:coord>
+ <gx:coord>-97.065 9.01 0</gx:coord>
+ <gx:coord>-97.7125 8.775 0</gx:coord>
+ <gx:coord>-97.91 8.87 0</gx:coord>
+ <gx:coord>-97.9928571428571 8.70714285714286 0</gx:coord>
+ <gx:coord>-98.26 8.57 0</gx:coord>
+ <gx:coord>-98.56 8.445 0</gx:coord>
+ <gx:coord>-99.0125 8.575 0</gx:coord>
+ <gx:coord>-99.41 8.67 0</gx:coord>
+ <gx:coord>-99.675 8.79583333333333 0</gx:coord>
+ <gx:coord>-99.905 9.12 0</gx:coord>
+ <gx:coord>-100.165 9.39 0</gx:coord>
+ <gx:coord>-100.125 9.5875 0</gx:coord>
+ <gx:coord>-100.141666666667 9.55833333333333 0</gx:coord>
+ <gx:coord>-100.265 9.295 0</gx:coord>
+ <gx:coord>-100.370833333333 9.10833333333333 0</gx:coord>
+ <gx:coord>-100.01 9.44 0</gx:coord>
+ <gx:coord>-99.43125 11.35625 0</gx:coord>
+ <gx:coord>-99.3678571428571 11.4321428571429 0</gx:coord>
+ <gx:coord>-99.3833333333333 11.5916666666667 0</gx:coord>
+ <gx:coord>-99.425 11.7333333333333 0</gx:coord>
+ <gx:coord>-99.475 11.9375 0</gx:coord>
+ <gx:coord>-99.6392857142857 12.0678571428571 0</gx:coord>
+ <gx:coord>-99.9916666666667 12.35 0</gx:coord>
+ <gx:coord>-100.3125 12.3375 0</gx:coord>
+ <gx:coord>-100.816666666667 12.45 0</gx:coord>
+ <gx:coord>-101.229166666667 12.6416666666667 0</gx:coord>
+ <gx:coord>-101.5 12.7208333333333 0</gx:coord>
+ <gx:coord>-101.729166666667 12.85 0</gx:coord>
+ <gx:coord>-101.785 12.945 0</gx:coord>
+ <gx:coord>-101.658333333333 13.25 0</gx:coord>
+ <gx:coord>-101.5875 13.2958333333333 0</gx:coord>
+ <gx:coord>-101.335 13.51 0</gx:coord>
+ <gx:coord>-101.175 13.925 0</gx:coord>
+ <gx:coord>-101.183333333333 14.2125 0</gx:coord>
+ <gx:coord>-101.566666666667 14.3541666666667 0</gx:coord>
+ <gx:coord>-101.716666666667 14.4083333333333 0</gx:coord>
+ <gx:coord>-101.76 14.225 0</gx:coord>
+ <gx:coord>-101.895 14.4 0</gx:coord>
+ <gx:coord>-102.155 14.265 0</gx:coord>
+ <gx:coord>-102.11 14.425 0</gx:coord>
+ <gx:coord>-101.89 14.705 0</gx:coord>
+ <gx:coord>-102.09 15.045 0</gx:coord>
+ <gx:coord>-102.33 15.59 0</gx:coord>
+ <gx:coord>-102.5625 15.5458333333333 0</gx:coord>
+ <gx:coord>-102.915 16.565 0</gx:coord>
+ <gx:coord>-103.085 16.765 0</gx:coord>
+ <gx:coord>-102.933333333333 16.9708333333333 0</gx:coord>
+ <gx:coord>-103.054166666667 16.9375 0</gx:coord>
+ <gx:coord>-102.895833333333 16.8916666666667 0</gx:coord>
+ <gx:coord>-102.9 16.5875 0</gx:coord>
+ <gx:coord>-103.204166666667 16.2541666666667 0</gx:coord>
+ <gx:coord>-103.733333333333 15.3541666666667 0</gx:coord>
+ <gx:coord>-104.5625 14.6208333333333 0</gx:coord>
+ <gx:coord>-105.425 13.8458333333333 0</gx:coord>
+ <gx:coord>-105.8125 13.5041666666667 0</gx:coord>
+ <gx:coord>-106.120833333333 13.3583333333333 0</gx:coord>
+ <gx:coord>-106.41 13.33 0</gx:coord>
+ <gx:coord>-106.145 13.135 0</gx:coord>
+ <gx:coord>-106.108333333333 13.225 0</gx:coord>
+ <gx:coord>-106.091666666667 13.4125 0</gx:coord>
+ <gx:coord>-106.208333333333 13.25 0</gx:coord>
+ <gx:coord>-106.525 12.85 0</gx:coord>
+ <gx:coord>-106.795833333333 12.9875 0</gx:coord>
+ <gx:coord>-107.525 12.85 0</gx:coord>
+ <gx:coord>-107.904166666667 12.2625 0</gx:coord>
+ <gx:coord>-108.191666666667 11.5333333333333 0</gx:coord>
+ <gx:coord>-108.2625 11.1958333333333 0</gx:coord>
+ <gx:coord>-108.2 12.015 0</gx:coord>
+ <gx:coord>-108.208333333333 12.3208333333333 0</gx:coord>
+ <gx:coord>-108.095833333333 12.25 0</gx:coord>
+ <gx:coord>-107.920833333333 12.3583333333333 0</gx:coord>
+ <gx:coord>-108.079166666667 12.8583333333333 0</gx:coord>
+ <gx:coord>-108.220833333333 13.35 0</gx:coord>
+ <gx:coord>-108.383333333333 13.5666666666667 0</gx:coord>
+ <gx:coord>-108.391666666667 13.7041666666667 0</gx:coord>
+ <gx:coord>-108.44 13.485 0</gx:coord>
+ <gx:coord>-108.304166666667 13.0333333333333 0</gx:coord>
+ <gx:coord>-108.1 12.3583333333333 0</gx:coord>
+ <gx:coord>-108.185 10.955 0</gx:coord>
+ <gx:coord>-108.09 11.22 0</gx:coord>
+ <gx:coord>-107.9125 11.2375 0</gx:coord>
+ <gx:coord>-107.545 11.54 0</gx:coord>
+ <gx:coord>-107.466666666667 11.2291666666667 0</gx:coord>
+ <gx:coord>-107.78 10.755 0</gx:coord>
+ <gx:coord>-107.858333333333 9.9875 0</gx:coord>
+ <gx:coord>-108.341666666667 9.66666666666667 0</gx:coord>
+ <gx:coord>-108.275 8.925 0</gx:coord>
+ <gx:coord>-108.7875 8.85 0</gx:coord>
+ <gx:coord>-109.25 8.42083333333333 0</gx:coord>
+ <gx:coord>-109.829166666667 8.23333333333333 0</gx:coord>
+ <gx:coord>-110.09 7.97 0</gx:coord>
+ <gx:coord>-110.155 7.555 0</gx:coord>
+ <gx:coord>-110.2875 7.22916666666667 0</gx:coord>
+ <gx:coord>-110.4375 7.325 0</gx:coord>
+ <gx:coord>-110.566666666667 7.62083333333333 0</gx:coord>
+ <gx:coord>-110.89 7.52 0</gx:coord>
+ <gx:coord>-110.6125 7.29166666666667 0</gx:coord>
+ <gx:coord>-110.216666666667 6.75833333333333 0</gx:coord>
+ <gx:coord>-110.225 6.39375 0</gx:coord>
+ <gx:coord>-109.917857142857 6.03214285714286 0</gx:coord>
+ <gx:coord>-109.9875 5.89583333333333 0</gx:coord>
+ <gx:coord>-110.191666666667 5.87916666666667 0</gx:coord>
+ <gx:coord>-110.415 5.57 0</gx:coord>
+ <gx:coord>-110.366666666667 5.21666666666667 0</gx:coord>
+ <gx:coord>-110.558333333333 5.175 0</gx:coord>
+ <gx:coord>-110.65 5.12916666666667 0</gx:coord>
+ <gx:coord>-110.604166666667 5.12083333333333 0</gx:coord>
+ <gx:coord>-110.9 5.21666666666667 0</gx:coord>
+ <gx:coord>-111.020833333333 5.3 0</gx:coord>
+ <gx:coord>-110.875 5.07083333333333 0</gx:coord>
+ <gx:coord>-110.48 4.965 0</gx:coord>
+ <gx:coord>-110.2375 4.92083333333333 0</gx:coord>
+ <gx:coord>-110.133333333333 4.775 0</gx:coord>
+ <gx:coord>-109.875 4.5875 0</gx:coord>
+ <gx:coord>-109.370833333333 4.47083333333333 0</gx:coord>
+ <gx:coord>-109.05 4.0125 0</gx:coord>
+ <gx:coord>-109 3.545 0</gx:coord>
+ <gx:coord>-108.735 3.615 0</gx:coord>
+ <gx:coord>-108.658333333333 3.675 0</gx:coord>
+ <gx:coord>-107.675 3.8 0</gx:coord>
+ <gx:coord>-106.733333333333 3.9625 0</gx:coord>
+ <gx:coord>-106.7375 3.9625 0</gx:coord>
+ <gx:coord>-106.8125 4.00833333333333 0</gx:coord>
+ <gx:coord>-106.885 4.04 0</gx:coord>
+ <gx:coord>-106.954166666667 4.05416666666667 0</gx:coord>
+ <gx:coord>-107.035 4.08 0</gx:coord>
+ <gx:coord>-107.08 4.1 0</gx:coord>
+ <gx:coord>-107.1375 4.1 0</gx:coord>
+ <gx:coord>-107.16 4.11 0</gx:coord>
+ <gx:coord>-107.208333333333 4.125 0</gx:coord>
+ <gx:coord>-107.245833333333 4.13333333333333 0</gx:coord>
+ <gx:coord>-107.26875 4.15 0</gx:coord>
+ <gx:coord>-107.275 4.15 0</gx:coord>
+ </gx:Track>
+ </Placemark>
+ </Folder>
+ </kml>
